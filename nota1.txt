@@ -1,0 +1,8 @@
+se sube la actidad por segunda vez por complicaciones con el hardware .
+
+se crea la estructura base del .html
+se crea la el modelo personal (donde cargar los datos del personal como sueldo y telefono, nombre, etc.) 
+
+a solucionar:
+- pagina personalizada del error 404 y 505
+- creacion de tablas personal 'error en el setting.py/INSTALLED APPS'\
